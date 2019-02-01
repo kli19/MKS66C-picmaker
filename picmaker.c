@@ -22,8 +22,7 @@ int main(){
       }
       else{
 	color = 0;
-      }
-      
+      }      
       rgb[0]= color;
       rgb[1]= color;
       rgb[2]= color;
